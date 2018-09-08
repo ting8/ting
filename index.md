@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 聚合资源 听你想听
 
 You can use the [editor on GitHub](https://github.com/ting8/ting/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
